@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@use-gesture/vanilla": "^10.2.27",
+    "gsap": "^3.11.5",
+    "lethargy": "^1.0.9",
+    "lil-gui": "^0.18.1",
+    "three": "^0.151.3",
+    "virtual-scroll": "^2.2.1"
+  }
+}
